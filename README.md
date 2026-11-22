@@ -219,3 +219,27 @@ This README records the direction currently known. Update it when decisions are 
 ---
 
 **The standard:** Don't just tell people AI is powerful. Show what it does, how it works in a real workflow, and what evidence makes the result believable.
+
+
+## Strategy and operating documents
+
+- [Brand positioning](brand/positioning.md)
+- [Editorial boundaries and brand firewall](brand/editorial-boundaries.md)
+- [Market intelligence and opportunity scoring](research/opportunity-system.md)
+- [Competitor audit template](research/competitor-audit-template.md)
+- [Content strategy and pillar allocation](content/content-strategy.md)
+- [Initial 10-video backlog](content/first-10-video-backlog.md)
+- [Production tool architecture](production/tool-architecture.md)
+- [Avatar and voice standard](production/avatar-and-voice.md)
+- [Editing and visual production standard](production/editing-standard.md)
+- [Reusable AI production prompts](production/prompt-library.md)
+- [Publishing and business operating plan](operations/publishing-and-business.md)
+- [30-day launch experiment](operations/30-day-launch-experiment.md)
+- [Creator-OS integration and ownership](operations/creator-os-integration.md)
+- [Creator operations dashboard](analytics/creator-dashboard.md)
+- [Evidence, credibility, disclosure, and rights](quality/evidence-and-credibility.md)
+- [External repository adoption matrix — 22 projects](references/repository-adoption-matrix.md)
+
+## Shared infrastructure
+
+[Creator-OS](https://github.com/worksomaganesh/Creator-OS) provides shared workflow infrastructure. This repository remains the source of truth for AI That Works-specific positioning, research decisions, implementation evidence, content, production assets, and business operations.
